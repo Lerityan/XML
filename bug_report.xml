@@ -1,1 +1,7 @@
-
+<root>
+  <id>1</id>
+  <Title>Главная страница: ошибка &quot;endpoint retired&quot; при открытии</Title>
+  <STR>1. перейти на https://megaburger.ru/</STR>
+  <Result>Открылась главная страница, открылось вплывающее окно This endpoint has been retired</Result>
+  <Expected_result>Открылась главная страница</Expected_result>
+</root>
