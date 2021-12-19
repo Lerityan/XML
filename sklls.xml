@@ -1,0 +1,28 @@
+<xml>
+   <skills>
+      <element>1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</element>
+      <element>2. Что такое клиент серверная архитектура</element>
+      <element>3. Методы запросов на сервер</element>
+      <element>4. Ответы сервера.</element>
+      <element>5. Структуры запросов и ответов</element>
+      <element>6. Что такое JSON, XML. Их структура.</element>
+      <element>7. Тестирование API.</element>
+      <element>8. Снятие и чтение логов.</element>
+      <element>9. Postman, Fidler.</element>
+      <element>10. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</element>
+      <element>11. Dev Tools веб браузеров (Google Chrome, FireFox).</element>
+      <element>12. Мобильное тестирование.</element>
+      <element>13. Особенность iOS, Android, гайдлайны.</element>
+      <element>14. Сборка iOS приложений на XCode</element>
+      <element>15. Сборка Android приложений на Android Studio</element>
+      <element>16. Перехват мобильного трафика (сниффинг) через Charles</element>
+      <element>17. Настройка прокси на iOS и Android.</element>
+      <element>18. Командная строка (terminal) Linux Ubuntu. Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса. </element>
+      <element>19. Простой bash скриптринг , автоматизация рутинных задач на сервере.</element>
+      <element>20. Доступ к удалённым серверам.</element>
+      <element>21. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join</element>
+      <element>22. Git23. Jmeter</element>
+      <element>24. Методология разработки Scrum</element>
+      <element>25. Python. Создание собственного клиент-серверного приложения.</element>
+   </skills>
+</xml>
